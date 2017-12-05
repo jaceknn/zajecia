@@ -1,6 +1,9 @@
 
-trzy
-cztery
+
 piec
 szesc
-siedem osiem
+siedem 
+osiem
+dziewiec
+dziesiec
+kolejna modyfikacja
